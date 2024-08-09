@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Entainment",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":3,
+        "name":"sport Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"sport",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":6,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Music",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":8,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?t=st=1722537470~exp=1722541070~hmac=a0b347b119fa8fb6739263676f258911661f1d3721274c4c42dc970ceb478fe9&w=360"
+    }
+]
